@@ -1,0 +1,4 @@
+#ignore . files
+.*
+#execpt .gitignore files
+!.gitignore
